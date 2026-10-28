@@ -1,0 +1,1041 @@
+2022-06-06 10:34:12,262 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 10:34:12,263 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 10:34:12,263 - RTCM3Capture - Listening...
+2022-06-06 10:34:12,263 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 10:34:17,926 - RTCM3Capture - Got connection from "('217.124.183.230', 35398)"
+2022-06-06 10:34:17,929 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 10:34:18,558 - RTCM3Capture - Got connection from "('88.2.202.128', 3135)"
+2022-06-06 10:34:18,560 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 10:34:21,333 - RTCM3Capture - Got connection from "('217.124.183.253', 62939)"
+2022-06-06 10:34:21,335 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 10:34:24,844 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 10:34:24,845 - RTCM3Capture - Exiting...
+2022-06-06 10:34:24,845 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 10:34:24,845 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 10:34:24,847 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-06 10:34:24,847 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 10:34:24,848 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 10:34:24,848 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 10:36:06,716 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 10:36:06,717 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 10:36:06,717 - RTCM3Capture - Listening...
+2022-06-06 10:36:06,717 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 10:36:11,760 - RTCM3Capture - Got connection from "('88.2.202.128', 3145)"
+2022-06-06 10:36:11,763 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 10:36:16,259 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 10:36:16,260 - RTCM3Capture - Exiting...
+2022-06-06 10:36:16,260 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 10:36:16,260 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 10:36:16,262 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 10:36:16,262 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 11:16:36,527 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 11:16:36,527 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 11:16:36,527 - RTCM3Capture - Listening...
+2022-06-06 11:16:36,527 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 11:16:38,905 - RTCM3Capture - Got connection from "('88.2.202.128', 3368)"
+2022-06-06 11:16:38,908 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 11:16:40,636 - RTCM3Capture - Got connection from "('88.2.202.128', 3369)"
+2022-06-06 11:16:40,638 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 11:16:43,378 - RTCM3Capture - Got connection from "('217.124.183.253', 63179)"
+2022-06-06 11:16:43,380 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 11:16:45,924 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 11:16:45,925 - RTCM3Capture - Exiting...
+2022-06-06 11:16:45,925 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 11:16:45,925 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 11:16:45,927 - RTCM3Capture - Shutting down the process <Process(Process-3, stopped daemon)>
+2022-06-06 11:16:45,927 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 11:16:45,927 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 11:24:13,006 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 11:24:13,006 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 11:24:13,007 - RTCM3Capture - Listening...
+2022-06-06 11:24:13,007 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 11:24:16,783 - RTCM3Capture - Got connection from "('217.124.183.253', 63222)"
+2022-06-06 11:24:16,786 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 11:24:17,540 - RTCM3Capture - Got connection from "('88.2.202.128', 3445)"
+2022-06-06 11:24:17,541 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 11:24:18,834 - RTCM3Capture - Got connection from "('88.2.202.128', 3446)"
+2022-06-06 11:24:18,836 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 11:24:22,610 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 11:24:22,611 - RTCM3Capture - Exiting...
+2022-06-06 11:24:22,611 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 11:24:22,611 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 11:24:22,614 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-06 11:24:22,614 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-06 11:24:22,614 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 11:24:22,615 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 11:28:14,819 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 11:28:14,819 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 11:28:14,819 - RTCM3Capture - Listening...
+2022-06-06 11:28:14,819 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 11:28:16,266 - RTCM3Capture - Got connection from "('88.2.202.128', 3481)"
+2022-06-06 11:28:16,268 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 11:28:20,385 - RTCM3Capture - Got connection from "('88.2.202.128', 3482)"
+2022-06-06 11:28:20,387 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 11:28:20,465 - RTCM3Capture - Got connection from "('88.2.202.128', 3483)"
+2022-06-06 11:28:20,466 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 11:28:22,238 - RTCM3Capture - Got connection from "('217.124.183.253', 63245)"
+2022-06-06 11:28:22,239 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-06 11:28:24,880 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 11:28:24,880 - RTCM3Capture - Exiting...
+2022-06-06 11:28:24,880 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 11:28:24,880 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 11:28:24,882 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-06 11:28:24,882 - RTCM3Capture - Shutting down the process <Process(Process-4, started daemon)>
+2022-06-06 11:28:24,883 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 11:28:24,885 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 11:28:24,885 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 11:29:09,575 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 11:29:09,575 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 11:29:09,576 - RTCM3Capture - Listening...
+2022-06-06 11:29:09,576 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 11:29:13,485 - RTCM3Capture - Got connection from "('217.124.183.253', 63250)"
+2022-06-06 11:29:13,487 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 11:29:14,640 - RTCM3Capture - Got connection from "('88.2.202.128', 3493)"
+2022-06-06 11:29:14,642 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 11:29:14,643 - RTCM3Capture - Got connection from "('88.2.202.128', 3492)"
+2022-06-06 11:29:14,644 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 11:29:22,489 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 11:29:22,489 - RTCM3Capture - Exiting...
+2022-06-06 11:29:22,489 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 11:29:22,489 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 11:29:22,491 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 11:29:22,492 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-06 11:29:22,493 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 11:29:22,493 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 11:34:02,417 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 11:34:02,417 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 11:34:02,417 - RTCM3Capture - Listening...
+2022-06-06 11:34:02,417 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 11:34:04,288 - RTCM3Capture - Got connection from "('217.124.183.253', 63277)"
+2022-06-06 11:34:04,291 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 11:34:07,516 - RTCM3Capture - Got connection from "('217.124.183.230', 35520)"
+2022-06-06 11:34:07,518 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 11:34:12,666 - RTCM3Capture - Got connection from "('88.2.202.128', 3546)"
+2022-06-06 11:34:12,668 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 11:34:12,709 - RTCM3Capture - Got connection from "('88.2.202.128', 3547)"
+2022-06-06 11:34:12,710 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-06 11:34:14,711 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 11:34:14,711 - RTCM3Capture - Exiting...
+2022-06-06 11:34:14,712 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 11:34:14,712 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 11:34:14,714 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 11:34:14,715 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-06 11:34:14,715 - RTCM3Capture - Shutting down the process <Process(Process-4, started daemon)>
+2022-06-06 11:34:14,717 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 11:34:14,717 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 13:07:14,742 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 13:07:14,742 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 13:07:14,742 - RTCM3Capture - Listening...
+2022-06-06 13:07:14,742 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 13:07:16,239 - RTCM3Capture - Got connection from "('217.124.183.253', 63804)"
+2022-06-06 13:07:16,242 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 13:07:24,636 - RTCM3Capture - Got connection from "('88.2.202.128', 4552)"
+2022-06-06 13:07:24,637 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 13:07:25,768 - RTCM3Capture - Got connection from "('88.2.202.128', 4553)"
+2022-06-06 13:07:25,770 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 13:07:31,646 - RTCM3Capture - Got connection from "('217.124.183.230', 35709)"
+2022-06-06 13:07:31,647 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-06 13:56:27,300 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 13:56:27,301 - RTCM3Capture - Exiting...
+2022-06-06 13:56:27,301 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 13:56:27,301 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 13:56:27,303 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 13:56:27,305 - RTCM3Capture - Shutting down the process <Process(Process-4, stopped daemon)>
+2022-06-06 13:56:27,305 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-06 13:56:27,306 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 13:56:27,306 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:03:38,497 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:03:38,497 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:03:38,497 - RTCM3Capture - Listening...
+2022-06-06 14:03:38,498 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:03:38,563 - RTCM3Capture - Got connection from "('88.2.202.128', 4593)"
+2022-06-06 14:03:38,566 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:03:54,017 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:03:54,018 - RTCM3Capture - Exiting...
+2022-06-06 14:03:54,018 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:03:54,018 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:03:54,020 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:03:54,020 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:07:03,522 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:07:03,522 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:07:03,522 - RTCM3Capture - Listening...
+2022-06-06 14:07:03,523 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:07:04,002 - RTCM3Capture - Got connection from "('88.2.202.128', 4611)"
+2022-06-06 14:07:04,005 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:07:04,119 - RTCM3Capture - Got connection from "('88.2.202.128', 4612)"
+2022-06-06 14:07:04,120 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 14:07:07,351 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:07:07,352 - RTCM3Capture - Exiting...
+2022-06-06 14:07:07,352 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:07:07,352 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:07:07,353 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-06 14:07:07,353 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:07:07,354 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:08:19,162 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:08:19,163 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:08:19,163 - RTCM3Capture - Listening...
+2022-06-06 14:08:19,163 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:08:21,723 - RTCM3Capture - Got connection from "('88.2.202.128', 4619)"
+2022-06-06 14:08:21,726 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:08:31,032 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:08:31,033 - RTCM3Capture - Exiting...
+2022-06-06 14:08:31,033 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:08:31,033 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:08:31,035 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:08:31,036 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:21:08,727 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:21:08,728 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:21:08,728 - RTCM3Capture - Listening...
+2022-06-06 14:21:08,728 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:21:14,372 - RTCM3Capture - Got connection from "('88.2.202.128', 4686)"
+2022-06-06 14:21:14,374 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:21:22,765 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:21:22,766 - RTCM3Capture - Exiting...
+2022-06-06 14:21:22,766 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:21:22,766 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:21:22,768 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:21:22,768 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:23:16,200 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:23:16,200 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:23:16,200 - RTCM3Capture - Listening...
+2022-06-06 14:23:16,200 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:23:24,785 - RTCM3Capture - Got connection from "('88.2.202.128', 4697)"
+2022-06-06 14:23:24,788 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:23:27,268 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:23:27,269 - RTCM3Capture - Exiting...
+2022-06-06 14:23:27,269 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:23:27,269 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:23:27,271 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:23:27,271 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:33:13,940 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:33:13,941 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:33:13,941 - RTCM3Capture - Listening...
+2022-06-06 14:33:13,941 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:33:21,735 - RTCM3Capture - Got connection from "('88.2.202.128', 4748)"
+2022-06-06 14:33:21,738 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:33:28,193 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:33:28,194 - RTCM3Capture - Exiting...
+2022-06-06 14:33:28,194 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:33:28,194 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:33:28,196 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:33:28,196 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:34:38,932 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:34:38,932 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:34:38,932 - RTCM3Capture - Listening...
+2022-06-06 14:34:38,932 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:34:43,717 - RTCM3Capture - Got connection from "('88.2.202.128', 4755)"
+2022-06-06 14:34:43,719 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:34:47,081 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:34:47,081 - RTCM3Capture - Exiting...
+2022-06-06 14:34:47,082 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:34:47,082 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:34:47,084 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:34:47,084 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:36:37,671 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:36:37,671 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:36:37,671 - RTCM3Capture - Listening...
+2022-06-06 14:36:37,671 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:36:46,887 - RTCM3Capture - Got connection from "('88.2.202.128', 4766)"
+2022-06-06 14:36:46,890 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:36:47,640 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:36:47,641 - RTCM3Capture - Exiting...
+2022-06-06 14:36:47,641 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:36:47,641 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:36:47,643 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:36:47,643 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:38:37,160 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:38:37,160 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:38:37,160 - RTCM3Capture - Listening...
+2022-06-06 14:38:37,161 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:38:47,875 - RTCM3Capture - Got connection from "('88.2.202.128', 4777)"
+2022-06-06 14:38:47,878 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:38:48,504 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:38:48,504 - RTCM3Capture - Exiting...
+2022-06-06 14:38:48,505 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:38:48,505 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:38:48,507 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:38:48,507 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:40:12,517 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:40:12,517 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:40:12,517 - RTCM3Capture - Listening...
+2022-06-06 14:40:12,517 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:40:14,977 - RTCM3Capture - Got connection from "('88.2.202.128', 4785)"
+2022-06-06 14:40:14,979 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:40:16,567 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:40:16,567 - RTCM3Capture - Exiting...
+2022-06-06 14:40:16,568 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:40:16,568 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:40:16,570 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:40:16,570 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:40:57,578 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:40:57,578 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:40:57,578 - RTCM3Capture - Listening...
+2022-06-06 14:40:57,578 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:41:09,039 - RTCM3Capture - Got connection from "('88.2.202.128', 4790)"
+2022-06-06 14:41:09,042 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:41:09,599 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:41:09,599 - RTCM3Capture - Exiting...
+2022-06-06 14:41:09,600 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:41:09,600 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:41:09,602 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:41:09,602 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:41:11,928 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:41:11,928 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:41:11,928 - RTCM3Capture - Listening...
+2022-06-06 14:41:11,928 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:41:16,125 - RTCM3Capture - Got connection from "('88.2.202.128', 4791)"
+2022-06-06 14:41:16,128 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:41:18,175 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:41:18,175 - RTCM3Capture - Exiting...
+2022-06-06 14:41:18,175 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:41:18,176 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:41:18,177 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:41:18,178 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:42:58,191 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:42:58,192 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:42:58,192 - RTCM3Capture - Listening...
+2022-06-06 14:42:58,192 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:43:07,435 - RTCM3Capture - Got connection from "('88.2.202.128', 4801)"
+2022-06-06 14:43:07,438 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:43:20,694 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:43:20,695 - RTCM3Capture - Exiting...
+2022-06-06 14:43:20,695 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:43:20,695 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:43:20,697 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:43:20,697 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:44:40,743 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:44:40,744 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:44:40,744 - RTCM3Capture - Listening...
+2022-06-06 14:44:40,744 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:44:46,776 - RTCM3Capture - Got connection from "('88.2.202.128', 4809)"
+2022-06-06 14:44:46,780 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:45:38,666 - RTCM3Capture - Got connection from "('88.2.202.128', 4810)"
+2022-06-06 14:45:38,668 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 14:45:38,742 - RTCM3Capture - Got connection from "('88.2.202.128', 4811)"
+2022-06-06 14:45:38,743 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 14:45:44,124 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:45:44,124 - RTCM3Capture - Exiting...
+2022-06-06 14:45:44,124 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:45:44,124 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:45:44,126 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 14:45:44,127 - RTCM3Capture - Shutting down the process <Process(Process-3, stopped daemon)>
+2022-06-06 14:45:44,127 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:45:44,127 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:45:46,460 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:45:46,460 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:45:46,460 - RTCM3Capture - Listening...
+2022-06-06 14:45:46,460 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:45:51,126 - RTCM3Capture - Got connection from "('88.2.202.128', 4812)"
+2022-06-06 14:45:51,129 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:45:51,131 - RTCM3Capture - Got connection from "('88.2.202.128', 4813)"
+2022-06-06 14:45:51,133 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 14:46:08,660 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:46:08,660 - RTCM3Capture - Exiting...
+2022-06-06 14:46:08,661 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:46:08,661 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:46:08,662 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 14:46:08,663 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:46:08,663 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:47:05,750 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:47:05,750 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:47:05,750 - RTCM3Capture - Listening...
+2022-06-06 14:47:05,750 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:47:12,737 - RTCM3Capture - Got connection from "('88.2.202.128', 4824)"
+2022-06-06 14:47:12,739 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:47:12,742 - RTCM3Capture - Got connection from "('88.2.202.128', 4825)"
+2022-06-06 14:47:12,743 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 14:47:25,053 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:47:25,053 - RTCM3Capture - Exiting...
+2022-06-06 14:47:25,053 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:47:25,054 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:47:25,055 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 14:47:25,056 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:47:25,056 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:48:33,570 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:48:33,570 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:48:33,570 - RTCM3Capture - Listening...
+2022-06-06 14:48:33,570 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:48:37,638 - RTCM3Capture - Got connection from "('88.2.202.128', 4838)"
+2022-06-06 14:48:37,639 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:48:37,711 - RTCM3Capture - Got connection from "('88.2.202.128', 4839)"
+2022-06-06 14:48:37,712 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 14:48:40,925 - RTCM3Capture - Got connection from "('88.2.202.128', 4840)"
+2022-06-06 14:48:40,927 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-06 14:49:28,508 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:49:28,508 - RTCM3Capture - Exiting...
+2022-06-06 14:49:28,508 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:49:28,509 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-06 14:49:28,510 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:49:28,511 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-06 14:49:28,511 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:49:28,511 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:49:34,935 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:49:34,935 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:49:34,935 - RTCM3Capture - Listening...
+2022-06-06 14:49:34,936 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:49:34,936 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-06 14:49:34,936 - RTCM3Capture - Exiting...
+2022-06-06 14:49:34,936 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:49:34,936 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:49:39,388 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:49:39,388 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:49:39,388 - RTCM3Capture - Listening...
+2022-06-06 14:49:39,388 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:49:39,389 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-06 14:49:39,389 - RTCM3Capture - Exiting...
+2022-06-06 14:49:39,389 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:49:39,389 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:50:35,067 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:50:35,067 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:50:35,067 - RTCM3Capture - Listening...
+2022-06-06 14:50:35,067 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:50:35,068 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-06 14:50:35,068 - RTCM3Capture - Exiting...
+2022-06-06 14:50:35,068 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:50:35,068 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:51:00,999 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:51:01,000 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:51:01,000 - RTCM3Capture - Listening...
+2022-06-06 14:51:01,000 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:51:01,000 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-06 14:51:01,000 - RTCM3Capture - Exiting...
+2022-06-06 14:51:01,001 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:51:01,001 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-06 14:53:22,442 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-06 14:53:22,442 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-06 14:53:22,442 - RTCM3Capture - Listening...
+2022-06-06 14:53:22,443 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-06 14:53:30,871 - RTCM3Capture - Got connection from "('88.2.202.128', 4881)"
+2022-06-06 14:53:30,874 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-06 14:53:30,876 - RTCM3Capture - Got connection from "('88.2.202.128', 4882)"
+2022-06-06 14:53:30,878 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-06 14:54:08,306 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-06 14:54:08,307 - RTCM3Capture - Exiting...
+2022-06-06 14:54:08,307 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-06 14:54:08,307 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-06 14:54:08,309 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-06 14:54:08,310 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-06 14:54:08,311 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 09:14:07,254 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 09:14:07,255 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 09:14:07,255 - RTCM3Capture - Listening...
+2022-06-08 09:14:07,255 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 09:14:14,313 - RTCM3Capture - Got connection from "('88.2.202.128', 3290)"
+2022-06-08 09:14:14,317 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 09:14:15,442 - RTCM3Capture - Got connection from "('88.2.202.128', 3291)"
+2022-06-08 09:14:15,444 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 11:12:11,259 - RTCM3Capture - Got connection from "('217.124.183.233', 49544)"
+2022-06-08 11:12:11,260 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 11:13:43,797 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 11:13:43,798 - RTCM3Capture - Exiting...
+2022-06-08 11:13:43,798 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 11:13:43,798 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 11:13:43,800 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-08 11:13:43,801 - RTCM3Capture - Shutting down the process <Process(Process-3, stopped daemon)>
+2022-06-08 11:13:43,802 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:13:43,802 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:13:51,460 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:13:51,460 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:13:51,460 - RTCM3Capture - Listening...
+2022-06-08 11:13:51,460 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:13:51,461 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 11:13:51,461 - RTCM3Capture - Exiting...
+2022-06-08 11:13:51,461 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:13:51,461 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:14:44,805 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:14:44,806 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:14:44,806 - RTCM3Capture - Listening...
+2022-06-08 11:14:44,806 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:14:45,611 - RTCM3Capture - Got connection from "('88.2.202.128', 3302)"
+2022-06-08 11:14:45,614 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 11:14:45,636 - RTCM3Capture - Got connection from "('88.2.202.128', 3303)"
+2022-06-08 11:14:45,637 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 11:17:23,275 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 11:17:23,275 - RTCM3Capture - Exiting...
+2022-06-08 11:17:23,275 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 11:17:23,275 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 11:17:23,276 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-08 11:17:23,277 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:17:23,277 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:17:25,394 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:17:25,394 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:17:25,394 - RTCM3Capture - Listening...
+2022-06-08 11:17:25,395 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:21:06,399 - RTCM3Capture - Got connection from "('217.124.183.230', 35715)"
+2022-06-08 11:21:06,402 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 11:21:09,079 - RTCM3Capture - Got connection from "('217.124.183.233', 49545)"
+2022-06-08 11:21:09,081 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 11:21:22,522 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 11:21:22,523 - RTCM3Capture - Exiting...
+2022-06-08 11:21:22,523 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 11:21:22,523 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 11:21:22,525 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 11:21:22,526 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:21:22,526 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:23:24,151 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:23:24,151 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:23:24,152 - RTCM3Capture - Listening...
+2022-06-08 11:23:24,152 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:23:28,470 - RTCM3Capture - Got connection from "('217.124.183.230', 35722)"
+2022-06-08 11:23:28,473 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 11:23:33,085 - RTCM3Capture - Got connection from "('217.124.183.233', 49546)"
+2022-06-08 11:23:33,087 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 11:23:43,465 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 11:23:43,466 - RTCM3Capture - Exiting...
+2022-06-08 11:23:43,466 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 11:23:43,466 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 11:23:43,467 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 11:23:43,468 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:23:43,468 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:23:45,065 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:23:45,066 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:23:45,066 - RTCM3Capture - Listening...
+2022-06-08 11:23:45,066 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:23:45,066 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 11:23:45,066 - RTCM3Capture - Exiting...
+2022-06-08 11:23:45,066 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:23:45,067 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:23:50,210 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:23:50,210 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:23:50,210 - RTCM3Capture - Listening...
+2022-06-08 11:23:50,210 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:23:50,210 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 11:23:50,211 - RTCM3Capture - Exiting...
+2022-06-08 11:23:50,211 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:23:50,211 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:24:57,695 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:24:57,695 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:24:57,695 - RTCM3Capture - Listening...
+2022-06-08 11:24:57,695 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:25:19,329 - RTCM3Capture - Got connection from "('217.124.183.233', 49552)"
+2022-06-08 11:25:19,332 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 11:25:23,017 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 11:25:23,017 - RTCM3Capture - Exiting...
+2022-06-08 11:25:23,017 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 11:25:23,018 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 11:25:23,019 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 11:25:23,020 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 11:30:25,415 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 11:30:25,415 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 11:30:25,415 - RTCM3Capture - Listening...
+2022-06-08 11:30:25,415 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 11:30:28,677 - RTCM3Capture - Got connection from "('217.124.183.233', 49565)"
+2022-06-08 11:30:28,680 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 12:15:05,126 - RTCM3Capture - Got connection from "('217.124.183.229', 48185)"
+2022-06-08 12:15:05,128 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 12:15:33,403 - RTCM3Capture - Got connection from "('217.124.183.229', 48188)"
+2022-06-08 12:15:33,404 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 12:17:35,511 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 12:17:35,512 - RTCM3Capture - Exiting...
+2022-06-08 12:17:35,512 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 12:17:35,512 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-08 12:17:35,514 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-08 12:17:35,514 - RTCM3Capture - Shutting down the process <Process(Process-2, started daemon)>
+2022-06-08 12:17:35,515 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:17:35,515 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:17:41,875 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:17:41,875 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:17:41,875 - RTCM3Capture - Listening...
+2022-06-08 12:17:41,875 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:17:41,876 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:17:41,876 - RTCM3Capture - Exiting...
+2022-06-08 12:17:41,876 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:17:41,876 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:17:43,680 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:17:43,680 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:17:43,680 - RTCM3Capture - Listening...
+2022-06-08 12:17:43,680 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:17:43,681 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:17:43,681 - RTCM3Capture - Exiting...
+2022-06-08 12:17:43,681 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:17:43,681 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:18:23,791 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:18:23,791 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:18:23,791 - RTCM3Capture - Listening...
+2022-06-08 12:18:23,792 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:18:23,792 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:18:23,792 - RTCM3Capture - Exiting...
+2022-06-08 12:18:23,792 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:18:23,792 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:18:37,144 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:18:37,144 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:18:37,144 - RTCM3Capture - Listening...
+2022-06-08 12:18:37,144 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:18:37,144 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:18:37,145 - RTCM3Capture - Exiting...
+2022-06-08 12:18:37,145 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:18:37,145 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:19:25,815 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:19:25,815 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:19:25,815 - RTCM3Capture - Listening...
+2022-06-08 12:19:25,815 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:19:25,816 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:19:25,816 - RTCM3Capture - Exiting...
+2022-06-08 12:19:25,816 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:19:25,816 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:19:27,296 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:19:27,296 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:19:27,296 - RTCM3Capture - Listening...
+2022-06-08 12:19:27,296 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:19:27,297 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:19:27,297 - RTCM3Capture - Exiting...
+2022-06-08 12:19:27,297 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:19:27,297 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:20:07,776 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:20:07,776 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:20:07,776 - RTCM3Capture - Listening...
+2022-06-08 12:20:07,776 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:20:11,409 - RTCM3Capture - Got connection from "('217.124.183.233', 49573)"
+2022-06-08 12:20:11,412 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 12:20:11,421 - RTCM3Capture - Got connection from "('217.124.183.229', 48198)"
+2022-06-08 12:20:11,422 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 12:21:28,233 - RTCM3Capture - Got connection from "('217.124.183.230', 35723)"
+2022-06-08 12:21:28,235 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 12:22:02,482 - RTCM3Capture - Got connection from "('217.124.183.229', 39694)"
+2022-06-08 12:22:02,484 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-08 12:22:25,022 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 12:22:25,022 - RTCM3Capture - Exiting...
+2022-06-08 12:22:25,023 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 12:22:25,023 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-08 12:22:25,024 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 12:22:25,025 - RTCM3Capture - Shutting down the process <Process(Process-4, started daemon)>
+2022-06-08 12:22:25,026 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 12:22:25,026 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:22:25,026 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:22:32,490 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:22:32,490 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:22:32,490 - RTCM3Capture - Listening...
+2022-06-08 12:22:32,490 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:22:32,490 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:22:32,491 - RTCM3Capture - Exiting...
+2022-06-08 12:22:32,491 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:22:32,491 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:22:50,527 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:22:50,527 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:22:50,528 - RTCM3Capture - Listening...
+2022-06-08 12:22:50,528 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:22:50,528 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:22:50,528 - RTCM3Capture - Exiting...
+2022-06-08 12:22:50,528 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:22:50,528 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:22:51,926 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:22:51,926 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:22:51,926 - RTCM3Capture - Listening...
+2022-06-08 12:22:51,926 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:22:51,927 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:22:51,927 - RTCM3Capture - Exiting...
+2022-06-08 12:22:51,927 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:22:51,927 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:22:56,566 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:22:56,566 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:22:56,566 - RTCM3Capture - Listening...
+2022-06-08 12:22:56,566 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:22:56,566 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:22:56,566 - RTCM3Capture - Exiting...
+2022-06-08 12:22:56,567 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:22:56,567 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:23:00,025 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:23:00,025 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:23:00,025 - RTCM3Capture - Listening...
+2022-06-08 12:23:00,025 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:23:00,025 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:23:00,026 - RTCM3Capture - Exiting...
+2022-06-08 12:23:00,026 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:23:00,026 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:23:16,799 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:23:16,799 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:23:16,799 - RTCM3Capture - Listening...
+2022-06-08 12:23:16,799 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:23:16,799 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:23:16,800 - RTCM3Capture - Exiting...
+2022-06-08 12:23:16,800 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:23:16,800 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:23:23,480 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:23:23,480 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:23:23,480 - RTCM3Capture - Listening...
+2022-06-08 12:23:23,480 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:23:23,480 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:23:23,481 - RTCM3Capture - Exiting...
+2022-06-08 12:23:23,481 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:23:23,481 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:23:28,903 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:23:28,904 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:23:28,904 - RTCM3Capture - Listening...
+2022-06-08 12:23:28,904 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:23:30,269 - RTCM3Capture - Got connection from "('217.124.183.233', 49578)"
+2022-06-08 12:23:30,272 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 12:23:30,274 - RTCM3Capture - Got connection from "('217.124.183.229', 48203)"
+2022-06-08 12:23:30,276 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 12:23:31,351 - RTCM3Capture - Got connection from "('217.124.183.230', 35728)"
+2022-06-08 12:23:31,353 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 12:23:39,111 - RTCM3Capture - Got connection from "('217.124.183.229', 39702)"
+2022-06-08 12:23:39,112 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-08 12:33:59,657 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 12:33:59,658 - RTCM3Capture - Exiting...
+2022-06-08 12:33:59,659 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 12:33:59,659 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-08 12:33:59,661 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 12:33:59,662 - RTCM3Capture - Shutting down the process <Process(Process-4, stopped daemon)>
+2022-06-08 12:33:59,662 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 12:33:59,662 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:33:59,662 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:36:26,475 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:36:26,475 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:36:26,475 - RTCM3Capture - Listening...
+2022-06-08 12:36:26,475 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:36:35,421 - RTCM3Capture - Got connection from "('217.124.183.229', 48211)"
+2022-06-08 12:36:35,424 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 12:36:35,521 - RTCM3Capture - Got connection from "('217.124.183.229', 39710)"
+2022-06-08 12:36:35,523 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 12:36:35,532 - RTCM3Capture - Got connection from "('217.124.183.230', 35736)"
+2022-06-08 12:36:35,534 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 12:36:39,946 - RTCM3Capture - Got connection from "('217.124.183.233', 47908)"
+2022-06-08 12:36:39,948 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-08 12:46:43,078 - RTCM3Capture - Got connection from "('217.124.183.233', 34197)"
+2022-06-08 12:46:43,079 - RTCM3Capture - <Process(Process-5, started daemon)>
+2022-06-08 12:46:59,494 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 12:46:59,496 - RTCM3Capture - Exiting...
+2022-06-08 12:46:59,497 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 12:46:59,497 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 12:46:59,500 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-08 12:46:59,501 - RTCM3Capture - Shutting down the process <Process(Process-4, stopped daemon)>
+2022-06-08 12:46:59,502 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 12:46:59,502 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:46:59,502 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:47:32,773 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:47:32,774 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:47:32,774 - RTCM3Capture - Listening...
+2022-06-08 12:47:32,774 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:47:32,774 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-08 12:47:32,774 - RTCM3Capture - Exiting...
+2022-06-08 12:47:32,774 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 12:47:32,775 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 12:48:17,607 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 12:48:17,607 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 12:48:17,607 - RTCM3Capture - Listening...
+2022-06-08 12:48:17,607 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 12:48:18,306 - RTCM3Capture - Got connection from "('217.124.183.233', 34205)"
+2022-06-08 12:48:18,309 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 12:48:35,331 - RTCM3Capture - Got connection from "('217.124.183.229', 48217)"
+2022-06-08 12:48:35,332 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 12:48:35,400 - RTCM3Capture - Got connection from "('217.124.183.229', 39716)"
+2022-06-08 12:48:35,401 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 12:48:35,402 - RTCM3Capture - Got connection from "('217.124.183.230', 35742)"
+2022-06-08 12:48:35,403 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-08 13:41:27,680 - RTCM3Capture - Got connection from "('88.2.202.128', 3304)"
+2022-06-08 13:41:27,682 - RTCM3Capture - <Process(Process-5, started daemon)>
+2022-06-08 13:41:46,440 - RTCM3Capture - Got connection from "('88.2.202.128', 3305)"
+2022-06-08 13:41:46,442 - RTCM3Capture - <Process(Process-6, started daemon)>
+2022-06-08 13:46:41,064 - RTCM3Capture - Got connection from "('217.124.183.253', 63809)"
+2022-06-08 13:46:41,066 - RTCM3Capture - <Process(Process-7, started daemon)>
+2022-06-08 14:03:45,415 - RTCM3Capture - Got connection from "('217.124.183.253', 63810)"
+2022-06-08 14:03:45,417 - RTCM3Capture - <Process(Process-8, started daemon)>
+2022-06-08 14:09:06,787 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 14:09:06,789 - RTCM3Capture - Exiting...
+2022-06-08 14:09:06,790 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 14:09:06,790 - RTCM3Capture - Shutting down the process <Process(Process-8, started daemon)>
+2022-06-08 14:09:06,793 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-08 14:09:06,793 - RTCM3Capture - Shutting down the process <Process(Process-3, stopped daemon)>
+2022-06-08 14:09:06,793 - RTCM3Capture - Shutting down the process <Process(Process-5, stopped daemon)>
+2022-06-08 14:09:06,793 - RTCM3Capture - Shutting down the process <Process(Process-7, stopped daemon)>
+2022-06-08 14:09:06,793 - RTCM3Capture - Shutting down the process <Process(Process-4, stopped daemon)>
+2022-06-08 14:09:06,794 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 14:09:06,794 - RTCM3Capture - Shutting down the process <Process(Process-6, stopped daemon)>
+2022-06-08 14:09:06,794 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 14:09:06,794 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 14:13:35,404 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 14:13:35,405 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 14:13:35,405 - RTCM3Capture - Listening...
+2022-06-08 14:13:35,405 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 14:13:40,755 - RTCM3Capture - Got connection from "('217.124.183.253', 63861)"
+2022-06-08 14:13:40,758 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 14:13:40,793 - RTCM3Capture - Got connection from "('217.124.183.253', 63862)"
+2022-06-08 14:13:40,795 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 14:13:42,616 - RTCM3Capture - Got connection from "('217.124.183.233', 34217)"
+2022-06-08 14:13:42,618 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 14:13:42,772 - RTCM3Capture - Got connection from "('217.124.183.230', 35754)"
+2022-06-08 14:13:42,773 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-08 14:13:42,782 - RTCM3Capture - Got connection from "('217.124.183.229', 39728)"
+2022-06-08 14:13:42,784 - RTCM3Capture - <Process(Process-5, started daemon)>
+2022-06-08 14:13:45,840 - RTCM3Capture - Got connection from "('88.2.202.128', 3354)"
+2022-06-08 14:13:45,842 - RTCM3Capture - <Process(Process-6, started daemon)>
+2022-06-08 14:13:45,978 - RTCM3Capture - Got connection from "('88.2.202.128', 3355)"
+2022-06-08 14:13:45,980 - RTCM3Capture - <Process(Process-7, started daemon)>
+2022-06-08 14:13:57,668 - RTCM3Capture - Got connection from "('217.124.183.229', 48741)"
+2022-06-08 14:13:57,670 - RTCM3Capture - <Process(Process-8, started daemon)>
+2022-06-08 14:16:00,960 - RTCM3Capture - Got connection from "('217.124.183.230', 35755)"
+2022-06-08 14:16:00,962 - RTCM3Capture - <Process(Process-9, started daemon)>
+2022-06-08 14:17:07,535 - RTCM3Capture - Got connection from "('217.124.183.229', 48751)"
+2022-06-08 14:17:07,536 - RTCM3Capture - <Process(Process-10, started daemon)>
+2022-06-08 14:17:09,191 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-08 14:17:09,194 - RTCM3Capture - Exiting...
+2022-06-08 14:17:09,194 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-08 14:17:09,194 - RTCM3Capture - Shutting down the process <Process(Process-3, started daemon)>
+2022-06-08 14:17:09,197 - RTCM3Capture - Shutting down the process <Process(Process-5, started daemon)>
+2022-06-08 14:17:09,198 - RTCM3Capture - Shutting down the process <Process(Process-7, started daemon)>
+2022-06-08 14:17:09,198 - RTCM3Capture - Shutting down the process <Process(Process-9, stopped daemon)>
+2022-06-08 14:17:09,198 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-08 14:17:09,198 - RTCM3Capture - Shutting down the process <Process(Process-8, stopped daemon)>
+2022-06-08 14:17:09,199 - RTCM3Capture - Shutting down the process <Process(Process-10, stopped daemon)>
+2022-06-08 14:17:09,199 - RTCM3Capture - Shutting down the process <Process(Process-1, started daemon)>
+2022-06-08 14:17:09,199 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-08 14:17:09,199 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-08 14:20:21,400 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-08 14:20:21,400 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-08 14:20:21,400 - RTCM3Capture - Listening...
+2022-06-08 14:20:21,401 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-08 14:20:22,091 - RTCM3Capture - Got connection from "('217.124.183.229', 39739)"
+2022-06-08 14:20:22,094 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-08 14:20:25,270 - RTCM3Capture - Got connection from "('88.2.202.128', 3389)"
+2022-06-08 14:20:25,272 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-08 14:20:25,273 - RTCM3Capture - Got connection from "('88.2.202.128', 3388)"
+2022-06-08 14:20:25,275 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-08 14:20:29,241 - RTCM3Capture - Got connection from "('217.124.183.253', 63899)"
+2022-06-08 14:20:29,243 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-08 14:20:29,244 - RTCM3Capture - Got connection from "('217.124.183.253', 63900)"
+2022-06-08 14:20:29,246 - RTCM3Capture - <Process(Process-5, started daemon)>
+2022-06-08 14:20:30,658 - RTCM3Capture - Got connection from "('217.124.183.229', 48768)"
+2022-06-08 14:20:30,660 - RTCM3Capture - <Process(Process-6, started daemon)>
+2022-06-08 14:20:39,866 - RTCM3Capture - Got connection from "('217.124.183.233', 34232)"
+2022-06-08 14:20:39,868 - RTCM3Capture - <Process(Process-7, started daemon)>
+2022-06-08 14:20:45,515 - RTCM3Capture - Got connection from "('217.124.183.233', 34233)"
+2022-06-08 14:20:45,517 - RTCM3Capture - <Process(Process-8, started daemon)>
+2022-06-08 14:20:45,519 - RTCM3Capture - Got connection from "('217.124.183.229', 48769)"
+2022-06-08 14:20:45,520 - RTCM3Capture - <Process(Process-9, started daemon)>
+2022-06-08 14:20:45,660 - RTCM3Capture - Got connection from "('217.124.183.229', 39740)"
+2022-06-08 14:20:45,662 - RTCM3Capture - <Process(Process-10, started daemon)>
+2022-06-08 14:20:45,671 - RTCM3Capture - Got connection from "('217.124.183.230', 35774)"
+2022-06-08 14:20:45,673 - RTCM3Capture - <Process(Process-11, started daemon)>
+2022-06-08 14:20:45,702 - RTCM3Capture - Got connection from "('217.124.183.230', 35775)"
+2022-06-08 14:20:45,703 - RTCM3Capture - <Process(Process-12, started daemon)>
+2022-06-08 14:31:17,395 - RTCM3Capture - Got connection from "('80.26.155.230', 1024)"
+2022-06-08 14:31:17,397 - RTCM3Capture - <Process(Process-13, started daemon)>
+2022-06-08 14:32:52,827 - RTCM3Capture - Got connection from "('80.26.155.230', 1025)"
+2022-06-08 14:32:52,829 - RTCM3Capture - <Process(Process-14, started daemon)>
+2022-06-09 02:30:58,358 - RTCM3Capture - Got connection from "('62.233.50.179', 61669)"
+2022-06-09 02:30:58,360 - RTCM3Capture - <Process(Process-15, started daemon)>
+2022-06-09 02:30:59,744 - RTCM3Capture - Got connection from "('80.26.155.230', 1026)"
+2022-06-09 02:30:59,746 - RTCM3Capture - <Process(Process-16, started daemon)>
+2022-06-09 07:21:51,604 - RTCM3Capture - Got connection from "('217.124.183.253', 63925)"
+2022-06-09 07:21:51,606 - RTCM3Capture - <Process(Process-17, started daemon)>
+2022-06-09 07:21:52,654 - RTCM3Capture - Got connection from "('80.26.155.230', 1027)"
+2022-06-09 07:21:52,656 - RTCM3Capture - <Process(Process-18, started daemon)>
+2022-06-09 07:21:53,048 - RTCM3Capture - Got connection from "('217.124.183.253', 63926)"
+2022-06-09 07:21:53,050 - RTCM3Capture - <Process(Process-19, started daemon)>
+2022-06-09 07:21:54,126 - RTCM3Capture - Got connection from "('80.26.155.230', 1028)"
+2022-06-09 07:21:54,127 - RTCM3Capture - <Process(Process-20, started daemon)>
+2022-06-09 10:16:37,608 - RTCM3Capture - Got connection from "('80.26.155.230', 1029)"
+2022-06-09 10:16:37,610 - RTCM3Capture - <Process(Process-21, started daemon)>
+2022-06-09 10:22:03,772 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-09 10:22:03,775 - RTCM3Capture - Exiting...
+2022-06-09 10:22:03,775 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-09 10:22:03,776 - RTCM3Capture - Shutting down the process <Process(Process-8, started daemon)>
+2022-06-09 10:22:03,780 - RTCM3Capture - Shutting down the process <Process(Process-10, stopped daemon)>
+2022-06-09 10:22:03,781 - RTCM3Capture - Shutting down the process <Process(Process-1, stopped daemon)>
+2022-06-09 10:22:03,781 - RTCM3Capture - Shutting down the process <Process(Process-12, stopped daemon)>
+2022-06-09 10:22:03,781 - RTCM3Capture - Shutting down the process <Process(Process-5, stopped daemon)>
+2022-06-09 10:22:03,781 - RTCM3Capture - Shutting down the process <Process(Process-7, stopped daemon)>
+2022-06-09 10:22:03,781 - RTCM3Capture - Shutting down the process <Process(Process-11, started daemon)>
+2022-06-09 10:22:03,783 - RTCM3Capture - Shutting down the process <Process(Process-19, stopped daemon)>
+2022-06-09 10:22:03,783 - RTCM3Capture - Shutting down the process <Process(Process-9, stopped daemon)>
+2022-06-09 10:22:03,783 - RTCM3Capture - Shutting down the process <Process(Process-17, stopped daemon)>
+2022-06-09 10:22:03,784 - RTCM3Capture - Shutting down the process <Process(Process-4, stopped daemon)>
+2022-06-09 10:22:03,784 - RTCM3Capture - Shutting down the process <Process(Process-2, stopped daemon)>
+2022-06-09 10:22:03,784 - RTCM3Capture - Shutting down the process <Process(Process-6, stopped daemon)>
+2022-06-09 10:22:03,784 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-09 10:22:03,784 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-09 10:24:10,757 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-09 10:24:10,757 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-09 10:24:10,757 - RTCM3Capture - Listening...
+2022-06-09 10:24:10,757 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-09 10:24:10,757 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-09 10:24:10,757 - RTCM3Capture - Exiting...
+2022-06-09 10:24:10,758 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-09 10:24:10,758 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-09 10:28:03,899 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-09 10:28:03,899 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-09 10:28:03,899 - RTCM3Capture - Listening...
+2022-06-09 10:28:03,899 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-09 10:28:04,379 - RTCM3Capture - Got connection from "('80.26.155.230', 1103)"
+2022-06-09 10:28:04,382 - RTCM3Capture - <Process(Process-1, started daemon)>
+2022-06-09 10:28:09,477 - RTCM3Capture - Got connection from "('217.124.183.229', 48818)"
+2022-06-09 10:28:09,479 - RTCM3Capture - <Process(Process-2, started daemon)>
+2022-06-09 10:28:09,561 - RTCM3Capture - Got connection from "('217.124.183.233', 34262)"
+2022-06-09 10:28:09,563 - RTCM3Capture - <Process(Process-3, started daemon)>
+2022-06-09 10:28:09,647 - RTCM3Capture - Got connection from "('217.124.183.229', 48819)"
+2022-06-09 10:28:09,649 - RTCM3Capture - <Process(Process-4, started daemon)>
+2022-06-09 10:28:09,753 - RTCM3Capture - Got connection from "('217.124.183.230', 35804)"
+2022-06-09 10:28:09,755 - RTCM3Capture - <Process(Process-5, started daemon)>
+2022-06-09 10:28:09,770 - RTCM3Capture - Got connection from "('217.124.183.229', 39769)"
+2022-06-09 10:28:09,771 - RTCM3Capture - <Process(Process-6, started daemon)>
+2022-06-09 10:28:09,775 - RTCM3Capture - Got connection from "('217.124.183.233', 34263)"
+2022-06-09 10:28:09,776 - RTCM3Capture - <Process(Process-7, started daemon)>
+2022-06-09 10:28:09,943 - RTCM3Capture - Got connection from "('217.124.183.230', 35805)"
+2022-06-09 10:28:09,945 - RTCM3Capture - <Process(Process-8, started daemon)>
+2022-06-09 10:28:09,970 - RTCM3Capture - Got connection from "('217.124.183.229', 39770)"
+2022-06-09 10:28:09,971 - RTCM3Capture - <Process(Process-9, started daemon)>
+2022-06-09 10:28:11,384 - RTCM3Capture - Got connection from "('88.2.202.128', 3454)"
+2022-06-09 10:28:11,386 - RTCM3Capture - <Process(Process-10, started daemon)>
+2022-06-09 10:28:11,388 - RTCM3Capture - Got connection from "('88.2.202.128', 3455)"
+2022-06-09 10:28:11,390 - RTCM3Capture - <Process(Process-11, started daemon)>
+2022-06-09 10:28:12,253 - RTCM3Capture - Got connection from "('217.124.183.253', 63996)"
+2022-06-09 10:28:12,255 - RTCM3Capture - <Process(Process-12, started daemon)>
+2022-06-09 10:28:12,256 - RTCM3Capture - Got connection from "('217.124.183.253', 63995)"
+2022-06-09 10:28:12,258 - RTCM3Capture - <Process(Process-13, started daemon)>
+2022-06-09 10:45:23,947 - RTCM3Capture - Got connection from "('80.26.155.230', 1104)"
+2022-06-09 10:45:23,949 - RTCM3Capture - <Process(Process-14, started daemon)>
+2022-06-09 10:49:42,022 - RTCM3Capture - Got connection from "('80.26.155.230', 1105)"
+2022-06-09 10:49:42,023 - RTCM3Capture - <Process(Process-15, started daemon)>
+2022-06-09 11:17:29,161 - RTCM3Capture - Server stopped by Keyboard Interrupt
+2022-06-09 11:17:29,166 - RTCM3Capture - Exiting...
+2022-06-09 11:17:29,170 - RTCM3Capture - Wait...there is a subprocess active
+2022-06-09 11:17:29,173 - RTCM3Capture - Shutting down the process <Process(Process-15, started daemon)>
+2022-06-09 11:17:29,173 - RTCM3Capture - Shutting down the process <Process(Process-14, started daemon)>
+2022-06-09 11:17:29,174 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-09 11:17:29,174 - RTCM3Capture - Thanks for using Caster REP 2.0!
+2022-06-09 11:17:35,847 - RTCM3Capture - Starting RTCM3 Capture Server...
+2022-06-09 11:17:35,847 - RTCM3Capture - Server 158.49.61.19 started, listening on port: 2103
+2022-06-09 11:17:35,848 - RTCM3Capture - Listening...
+2022-06-09 11:17:35,848 - RTCM3Capture - Push Ctrl+C to stop it...
+2022-06-09 11:17:35,848 - RTCM3Capture - Unexpected exception
+Traceback (most recent call last):
+  File "REP_rtcm3_capture.py", line 216, in <module>
+    server.start()
+  File "REP_rtcm3_capture.py", line 156, in start
+    self.socket.bind((self.hostname, self.port))
+OSError: [Errno 98] Address already in use
+2022-06-09 11:17:35,848 - RTCM3Capture - Exiting...
+2022-06-09 11:17:35,848 - RTCM3Capture - Server stopped - 158.49.61.19:2103
+2022-06-09 11:17:35,848 - RTCM3Capture - Thanks for using Caster REP 2.0!
